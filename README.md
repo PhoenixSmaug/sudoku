@@ -15,3 +15,5 @@ Using `benchmark()` the performance of the three solvers at Sudoku can be tested
 | Dancing Links       | 4s   |
 | Integer Programming | 100s |
 | Depth first search  | 47s  |
+
+(c) Mia Muessig
